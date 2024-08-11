@@ -32,4 +32,4 @@ __5. Convert to SVG and Rasterize:__
 - Symmetry Exploration: Detect reflective symmetries in closed curves.
 - Curve Completion: Complete incomplete curves to create a smooth and continuous line.
 - SVG & PNG Export: Save the processed curves as SVG files and rasterize them into PNG format.
-- hjkjj
+  
